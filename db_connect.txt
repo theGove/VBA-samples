@@ -1,0 +1,21 @@
+Sub db1()
+' 1. make a reference to the ADODB library
+' Tools > References ... Microsoft ActiveX data access objects library
+
+Dim cn As New ADODB.Connection
+Dim cs As String
+Dim sql As String
+Dim rs As New ADODB.Recordset
+
+cs = "DRIVER=SQL Server;DATABASE=userdata;SERVER=data.websql.org"
+cn.Open cs, "vbaStudent", "These are the times that try men's souls"
+sql = "select * from redcat.manufacturer"
+rs.Open sql, cn
+
+
+Debug.Print rs.Fields(1).Value
+
+rs.Close
+cn.Close
+
+End Sub
