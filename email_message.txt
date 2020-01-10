@@ -1,0 +1,11 @@
+Problem with your <MODELYEAR> <MAKE> <MODELNAME>
+Dear <FIRSTNAME>:
+
+When I heard about the trouble you had with your <MODELYEAR> <MAKE> <MODELNAME>, I was deeply troubled.  I have recently been assigned to your case.  I wanted to give you my contact information and to let you know that National Highway Transportation Safety Bureau is currently evaluating the <MAKE> <SYSTEM> for a possible recall.  If you would like to provide any more information about the incident you experienced back in <FAILYEAR>, please don't hesitate to contact me.
+
+Sincerely, 
+
+<AGENTNAME>
+Safety Analyst
+NHTSB
+<AGENTPHONE>
