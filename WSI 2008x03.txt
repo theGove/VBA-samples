@@ -1,0 +1,556 @@
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** MINAS GERAIS ***
+
+$JANUARIA    83386      0   0     0   0     0   0    13  42     1   1     0   0
+$PEDRA AZUL  83393      9  20    15  38   TRC   1    35  58     3   4     0   0
+$MONTES CLAR 83437    TRC   5     0   0     0   0    10  31     2   2     0   0
+$ARACUAI     83442      0   0   TRC   0     0   0    36  32     0   0     0   0
+$PIRAPORA    83483    TRC   4     0   0     0   0     9  27    19  19     1   0
+$TEOFILO OTO 83492      3   7     5  22    16  31    38  33     4   6     7  40
+$PATOS       83531     28 311     0   0     5 125    55 149    24  17     1   0
+$DIAMANTINA  83538      2   -     5   -     0   -    48   -    49   -     0   -
+$BELO HORIZO 83566    TRC   0     0   0    21 233    92 242    53  47     1   0
+$FRUTAL      83574      0   0     0   0    12  18     8   7    71  46     4  20
+*ARAXA       83579     29 138     0   0    11  79    74 161    69  45    18  80
+$BAMBUI      83582      4  39     0   0    19 211    99 261    42  37     0   0
+$CARATINGA   83592     19  38     2  12     1   2    31  52    33  35    43 220
+$AIMORES     83595      0   -     2   -     1   -    12   -     8   -   TRC   -
+$LAVRAS      83687     15  75     0   0    18 100    88 152   105  81     6  40
+*JUIZ DE FOR 83692     32 107     0   0     5  15    65 105   204 150     4  20
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** MINAS GERAIS ***
+
+$JANUARIA    83386                  0    0    0                   0     0    0
+$PEDRA AZUL  83393                  0    0    0                   0     0    0
+$MONTES CLAR 83437                  0    0    0                   0     0    0
+$ARACUAI     83442                  0    0    0                   0     0    0
+$PIRAPORA    83483                  1    0    0                   1     1    0
+$TEOFILO OTO 83492                  7  TRC    0                   7     7   40
+$PATOS       83531                TRC    1    0                   1     1    0
+$DIAMANTINA  83538                  0    0    0                   0     0    -
+$BELO HORIZO 83566                  1    0    0                   1     1    0
+$FRUTAL      83574                  0    0    4                   4     4   20
+*ARAXA       83579                  6    0   12                  18    18   80
+$BAMBUI      83582                  0    0    0                   0     0    0
+$CARATINGA   83592                 43    0    0                  43    43  220
+$AIMORES     83595                TRC    0    0                 TRC   TRC    -
+$LAVRAS      83687                  2    0    4                   6     6   40
+*JUIZ DE FOR 83692                  2  TRC    2                   4     4   20
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** SAO PAULO ***
+
+$VOTUPORANGA 83623      1   3     0   0    16  67     5   6   104  78   TRC   0
+$FRANCA      83630     12  55     0   0    51 464    27  42   123  94   TRC   0
+$CATANDUVA   83676      4   8     0   0    48 137    14  22    53  53     0   0
+$PRESIDENTE  83716     14  26     0   0    73 152    22  27   119 106    19 140
+$SAO CARLOS  83726     46 354     0   0    47 522    35 233    79  63     5  40
+$SAO PAULO   83780     79 149     0   0   263 674    27  42   139 109    10  80
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** SAO PAULO ***
+
+$VOTUPORANGA 83623                  0    0  TRC                 TRC   TRC    0
+$FRANCA      83630                TRC    0    0                 TRC   TRC    0
+$CATANDUVA   83676                  0    0    0                   0     0    0
+$PRESIDENTE  83716                 11    0    8                  19    19  140
+$SAO CARLOS  83726                  4    0    1                   5     5   40
+$SAO PAULO   83780                TRC    0   10                  10    10   80
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** EAST COAST STATES ***
+
+$LINHARES    83597     23  23    23  33    22  17    10   7    47  34     3  20
+$VITORIA     83649     56  65    26  46    28  52    44  64   104  97     4  20
+*TRINIDADE   83650    205 331   100 182   289 628   418 536   169 136     0   0
+$ITAPERUNA   83695      3   -    16   -    11   -    56   -    50   -   TRC   -
+$CAMPOS      83698     42 120     8  24     3  12    63  97    61  79     0   0
+$CORDEIRO    83718     30   -    16   -     5   -    66   -    64   -     1   -
+$RESENDE     83738     37 106    10  40    84 240    43  78   146 182    22 180
+$RIO DE JANE 83746     36  82    12  25    45 100    75 156    53  67    10 100
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** EAST COAST STATES ***
+
+$LINHARES    83597                  0  TRC    3                   3     3   20
+$VITORIA     83649                  1    3  TRC                   4     4   20
+*TRINIDADE   83650                  0    0    0                   0     0    0
+$ITAPERUNA   83695                TRC    0    0                 TRC   TRC    -
+$CAMPOS      83698                  0    0    0                   0     0    0
+$CORDEIRO    83718                TRC  TRC    1                   1     1    -
+$RESENDE     83738                  3    0   19                  22    22  180
+$RIO DE JANE 83746                  2  TRC    8                  10    10  100
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** COLOMBIA ***
+
+*SAN ANDRES  80001      5  54    10 100     1   4     2  11     -   -     -   0
+*SANTA MARTA 80009    TRC   0     0   0     0   0     0   0     -   -     -   0
+$CARTAGENA   80022      9   -     0   -     0   -     0   -     -   -     -   -
+*BUCARAMANGA 80094      4   2     6   2     3   1   102  31     -   -     -   0
+*MEDELLIN    80110     10   7     2   2     0   0   TRC   0     -   -     -   0
+$PEREIRA     80210     13   -     8   -   TRC   -    12   -     -   -     -   -
+*BOGOTA      80222     24  40     1   2     0   0    16  30     -   -     -   0
+*CALI        80259     43  60    16  44   TRC   0     4   8     -   -     -   0
+$LETICIA     80398     90   -    98   -   TRC   -    19   -     -   -     -   -
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** COLOMBIA ***
+
+*SAN ANDRES  80001                  -    -    -                   -     -    -
+*SANTA MARTA 80009                  -    -    -                   -     -    -
+$CARTAGENA   80022                  -    -    -                   -     -    -
+*BUCARAMANGA 80094                  -    -    -                   -     -    -
+*MEDELLIN    80110                  -    -    -                   -     -    -
+$PEREIRA     80210                  -    -    -                   -     -    -
+*BOGOTA      80222                  -    -    -                   -     -    -
+*CALI        80259                  -    -    -                   -     -    -
+$LETICIA     80398                  -    -    -                   -     -    -
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** BAHIA ***
+
+$BARREIRAS   83236      0   -     0   -     0   -     9  56     2   4     0   0
+$LENCOIS     83242     68 453    22 220    29 290    27 180    10  15     0   0
+$SALVADOR    83248    105  54   154  75    36  32    31  36    33  35     0   0
+*BOM JESUS D 83288      0   -     0   0     0   0    29 967     0   0     0   0
+$CAETITE     83339     13  76     5  37     2  18    40 308     5   8     0   0
+$VITORIA DA  83344     22  44    13  32     5  12    33  94    12  17     0   0
+$ILHEUS      83349    217 132   129  74    80  59    60  53    46  46   TRC   0
+$CARAVELAS   83497    132  99    43  34    13  18    27  24    21  19     -   0
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** BAHIA ***
+
+$BARREIRAS   83236                  0    0    0                   0     0    0
+$LENCOIS     83242                  0    0    0                   0     0    0
+$SALVADOR    83248                  0    0    0                   0     0    0
+*BOM JESUS D 83288                  0    0    0                   0     0    0
+$CAETITE     83339                  0    0    0                   0     0    0
+$VITORIA DA  83344                  0    0    0                   0     0    0
+$ILHEUS      83349                  0  TRC    0                 TRC   TRC    0
+$CARAVELAS   83497                  -    -    -                   -     -    -
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** PARANA ***
+
+$LONDRINA    83766     42  54    22  35   187 353    87  85    93  53    37 230
+$CAMPO MOURA 83783     55 120    19  50   233 485    75 114    88  67    35 240
+$IVAI        83811    142 189    84 120   191 318    69  66   235 131    21 120
+$FOZ DO IGUA 83827     87  76    42  47    70  88   161 140   172 138    48 360
+$IRATI       83836    154 115    52  52   156 156    81  54   308 192    39 260
+$CURITIBA    83840    154 156    32  51   150 179    64  54   277 205    13 100
+$PARANAGUA   83844    117 126    18  30   137 173   166 127   334 206     9  60
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               SA1 - NORTHERN SOUT    PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** PARANA ***
+
+$LONDRINA    83766                  0    1   36                  37    37  230
+$CAMPO MOURA 83783                TRC   17   18                  35    35  240
+$IVAI        83811                  0   11   10                  21    21  120
+$FOZ DO IGUA 83827                  0   43    5                  48    48  360
+$IRATI       83836                  0   33    6                  39    39  260
+$CURITIBA    83840                TRC    1   12                  13    13  100
+$PARANAGUA   83844                  1    1    7                   9     9   60
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    AFRICA                 PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** IVORY COAST ***
+
+*ODIENNE     65528    139  75     0   0   230  58    91  32     -   -     -   0
+*KORHOGO     65536      -   -   134  84     0   0     0   0     -   -     -   0
+*BONDOUKOU   65545     26  15   143 179   135 193   143  85   199 129     0   0
+*MAN         65548     54  24   122  63   332 143    90  28     0   0     0   0
+*BOUAKE      65555      -   -    83  72   146 166   111  68     0   0     -   0
+*GAGNOA      65557    123  57   179 157   144 206    92  55   151  76     8  70
+*DALOA       65560    187  99   296 329   183 126   143  62   136  96     5 100
+*DIMBOKRO    65562    113  61   100  74   616 733   120  90    80  65     0   0
+*YAMOUSSOUKR 65563     95  36    77  79    75 170    89  54    48  43     0   0
+*ABIDJAN     65578    439  74   122  39    11  35    47  85    39  20    23 120
+*ADIAKE      65585    339  57    90  39    36  71    84  79   148  63    24 120
+*TABOU       65592    278  51   399 243   324 324   336 145   321 152     8  40
+*SAN PEDRO   65594    120  21   118  42    24  37    48  27     4   2   TRC   0
+*SASSANDRA   65599    188  31   315 137    28 117    32  30    46  42    32 200
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               AFRICA                 PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** IVORY COAST ***
+
+*ODIENNE     65528                  -    -    -                   -     -    -
+*KORHOGO     65536                  -    -    -                   -     -    -
+*BONDOUKOU   65545                  0    0    0                   0     0    0
+*MAN         65548                  -    -    -                   -     -    0
+*BOUAKE      65555                  -    -    -                   -     -    -
+*GAGNOA      65557                  8    0    0                   8     8   70
+*DALOA       65560                  5    0    0                   5     5  100
+*DIMBOKRO    65562                  0    0    0                   0     0    0
+*YAMOUSSOUKR 65563                  0    0    0                   0     0    0
+*ABIDJAN     65578                 14    1    8                  23    23  120
+*ADIAKE      65585                 12   12    0                  24    24  120
+*TABOU       65592                  7    1    0                   8     8   40
+*SAN PEDRO   65594                TRC    0    0                 TRC   TRC    0
+*SASSANDRA   65599                 31    1    0                  32    32  200
+
+                            PRECIPITATION IS IN MM'S
+
+
+                            PRECIPITATION IS IN MM'S
+
+
+                            PRECIPITATION IS IN MM'S
+
+
+                            PRECIPITATION IS IN MM'S
+
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    AFRICA                 PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** CAMEROON ***
+
+@MAMFE       64890     16   8     -   -    14   6    17   5     -   -     -   0
+#DOUALA OBSV 64910    248  45   279  38   706  97   542  73   266  67   TRC   0
+#KRIBI       64971      8   3     0   0    14   9    12   2     -   -     -   0
+#GAROUA      64860    213 128    90  45   395 198   203  93    56  74     0   0
+#NGAOUNDERE  64870    234 100   182  73   167  84    94  40   114  86     0   0
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               AFRICA                 PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** CAMEROON ***
+
+@MAMFE       64890                  -    -    -                   -     -    -
+#DOUALA OBSV 64910                  0  TRC    0                 TRC   TRC    0
+#KRIBI       64971                  -    -    -                   -     -    -
+#GAROUA      64860                  0    0    0                   0     0    0
+#NGAOUNDERE  64870                  0    0    0                   0     0    0
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    AFRICA                 PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** TOGO ***
+
+*SOKODE      65361     25  11   253 106    50  18   186  63    55  41     0   0
+*ATAKPAME    65376     86  43   528 239   206 120   345 174    67  46     0   0
+*LOME        65387     94  35   127 135    47 188   134 291    90  81     0   0
+*MANGO       65352    104  71   203 110   297 119    80  30    65  77     0   0
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               AFRICA                 PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** TOGO ***
+
+*SOKODE      65361                  0    0    0                   0     0    0
+*ATAKPAME    65376                  0    0    0                   0     0    0
+*LOME        65387                  0    0    0                   0     0    0
+*MANGO       65352                  0    0    0                   0     0    0
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    AFRICA                 PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** BENIN ***
+
+#KANDI       65306     96  62   220 111   310  99   263 112    43  90     0   0
+#NATITINGOU  65319    172  97   287 120   325 119   290  89    94  65     0   0
+#PARAKOU     65330    365 215   216 123   176 141   295 107    92  92     0   0
+#SAVE        65335    242 140   182 103   202 149   213 125   116  94     0   0
+#BOHICON     65338    207 111   322 228   122 130   132  85   118  76     0   0
+#COTONOU     65344    424 108   156  99    12  25   168 191   135  83   TRC   0
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               AFRICA                 PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** BENIN ***
+
+#KANDI       65306                  0    0    0                   0     0    0
+#NATITINGOU  65319                  0    0    0                   0     0    0
+#PARAKOU     65330                  0    0    0                   0     0    0
+#SAVE        65335                  0    0    0                   0     0    0
+#BOHICON     65338                  0    0    0                   0     0    0
+#COTONOU     65344                TRC    0    0                 TRC   TRC    0
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                     MONTHLY PRECIPITATION TABULATION
+     JUNE  TO  3-NOV-08                    SEA - SOUTHEAST ASI    PAGE  1
+===============================================================================
+
+                      JUN-08    JUL-08    AUG-08    SEP-08    OCT-08    NOV-08
+  STATION     CALL   PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM  PREC %NM
+  =======     ====   ==== ===  ==== ===  ==== ===  ==== ===  ==== ===  ==== ===
+
+ *** INDONESIA ***
+
+*SABANG      96001      6   6    26  26     3   3     3   2    63  33     0   0
+$LHOKSEUMAWE 96009      4   4    44  34    63  72    60  37    19   9   TRC   0
+*BANDA       96011     39   -    33   -    37   -    24   -    67   -     0   -
+*BELAWAN     96033     49  35   219 122   196  98   193  96   168  67     3  10
+*MEDAN       96035     37  25   104  60    72  37   199  96    60  23    65 260
+*SIBOLGA     96073    161  89   296 156   249 124   433 206   509 196     7  20
+$TANJUNGPINA 96091    204  93    98  50   289 131    77  33   365 128   TRC   0
+*PAKANBARU   96109    197 160    79  68    68  38   205  91   281  96   104 340
+*TAREMPA     96145     68  44   141 117    87  63    43  26   150  51     0   0
+*PADANG      96163    345 127   363 146   205  76   201  46   353  72     3  10
+*RENGAT      96171    117  65    83  38   229 114    64  18    90  23   TRC   0
+*SINGKEP     96179     67  40   206 101   168  84   253 190    92  63     0   0
+*PALEMBANG   96221      7   6    95  98    91  89    88  80   121  59    36 130
+$PANGKALPINA 96237     97  66    59  45   102  94   109  93    78  51    40 190
+*TANJUNGPAND 96249    114  60    65  38   265 187    87  53   234  85    21  60
+*BENGKULU    96253     80  43    40  23    86  42    47  20   198  55     6  20
+$TELUKBETUNG 96295     29  25    29  29    65  53    21  17   141 104    32 220
+*TARAKAN-BOR 96509     71  22   144  55   130  41   178  61    71  20     1   0
+$PONTIANAK   96581     85   -   216   -   266   -   160   -   407   -     2   -
+$KETAPANG    96615    182  70   169  68   153  67   310 135   566 377     7  40
+*BALIKPAPAN  96633    172  65   315 129    72  31    59  27    36  26   TRC   0
+*PANGKALANBU 96645     86  47   118  91   154 120   108  73   200  89    65 290
+*PANARUNG    96655     47   -    76   -   217   -    71   -   179   -     7   -
+*BANJARMASIN 96685    204   -   222   -    99   -    58   -   134   -    17   -
+$KOTABARU    96695     47  36   121  70    42  22    91  53    86  47    24  80
+$JAKARTA/SOE 96749     23  24    17  27    41  95   TRC   1    50  45     0   0
+$JATIWANGI   96791     25  27     0   0    12  22     1   1    53  32    24 100
+$TEGAL       96797     68  68    23  29    17   -     1   5    29  41     6  60
+*SEMARANG    96839     38  68     3  12    52 999    68 999   187 999    12 200
+$SURABAYA/PE 96933     28   -     0   -   TRC   -     0   -    59   -   TRC   -
+*SURABAYA/JU 96935      4   -     0   -     0   -     0   -    36   -    19   -
+*MENADO      97014    180 110   395 332   155 160   204 237   180 148    28 130
+*PALU/MUTIAR 97072     46   -   156   -   164   -    55   -    75   -   TRC   -
+$MAJENE      97120     55   -    64   -    56   -    26   -   125   -   TRC   -
+*HASANUDDIN  97180     48  65    22  61     4  44   TRC   1    82 191     3  20
+$BAU-BAU/BET 97192    120   -    21   -    29   -     1   -    64   -     2   -
+*BALI INTL   97230    TRC   0     9  26     1   2    15  45    62  68   TRC   0
+*BIMA        97270      5   -     0   -     0   -     9   -     6   -    32   -
+*WAINGAPU    97340      0   -     0   -     0   -     0   -     0   -    10   -
+$KUPANG      97372      8   -     0   -     0   -     0   -   TRC   -   TRC   -
+*TERNATE     97430    266   -    72   -    80   -   145   -    94   -     5   -
+$WAMENA      97686    178   -    69   -    98   -   200   -   245   -     6   -
+*AMBON       97724    193 139   248 173   113  86   165 159   158 156    42 450
+*GESER       97748    171   -    63   -   348   -   125   -   129   -    11   -
+$TIMIKA      97796    298   -    82   -   227   -   291   -   203   -     6   -
+*SAUMLAKI    97900     38   -    11   -     2   -     0   -    13   -     7   -
+
+                            PRECIPITATION IS IN MM'S
+
+     WSI CORPORATION                       24 HR PRECIPITATION TABULATION
+     1-NOV-08   TO  3-NOV-08               SEA - SOUTHEAST ASI    PAGE  1
+===============================================================================
+
+                                     NOVEMBER                   1-3   1-3    %
+  STATION     CALL                  1    2    3                TOTAL TOTAL NORM
+  =======     ====                 ==   ==   ==                ===== ===== ====
+
+ *** INDONESIA ***
+
+*SABANG      96001                  0    0    -                   0     0    0
+$LHOKSEUMAWE 96009                  0  TRC  TRC                 TRC   TRC    0
+*BANDA       96011                  0    0    0                   0     0    -
+*BELAWAN     96033                  0    3    0                   3     3   10
+*MEDAN       96035                  0   65    0                  65    65  260
+*SIBOLGA     96073                  5    0    2                   7     7   20
+$TANJUNGPINA 96091                  0  TRC    0                 TRC   TRC    0
+*PAKANBARU   96109                  0  104    0                 104   104  340
+*TAREMPA     96145                  -    0    0                   0     0    0
+*PADANG      96163                  0    3    0                   3     3   10
+*RENGAT      96171                  0    0    0                   0     0    0
+*SINGKEP     96179                  0    0    0                   0     0    0
+*PALEMBANG   96221                 29    1    6                  36    36  130
+$PANGKALPINA 96237                TRC  TRC   40                  40    40  190
+*TANJUNGPAND 96249                TRC   20    1                  21    21   60
+*BENGKULU    96253                  2    4    -                   6     6   20
+$TELUKBETUNG 96295                  0    0   32                  32    32  220
+*TARAKAN-BOR 96509                  0    0    0                   0     0    0
+$PONTIANAK   96581                  0    0    0                   0     0    -
+$KETAPANG    96615                  0    1    6                   7     7   40
+*BALIKPAPAN  96633                  -  TRC    0                 TRC   TRC    0
+*PANGKALANBU 96645                  0    3   62                  65    65  290
+*PANARUNG    96655                  0    0    7                   7     7    -
+*BANJARMASIN 96685                 10  TRC    7                  17    17    -
+$KOTABARU    96695                  0    9   15                  24    24   80
+$JAKARTA/SOE 96749                  0    0    0                   0     0    0
+$JATIWANGI   96791                  0   22  TRC                  22    22  100
+$TEGAL       96797                  0    2    4                   6     6   60
+*SEMARANG    96839                  0  TRC   12                  12    12  200
+$SURABAYA/PE 96933                  0  TRC    0                 TRC   TRC    -
+*SURABAYA/JU 96935                  0   14    5                  19    19    -
+*MENADO      97014                  0  TRC   28                  28    28  130
+*PALU/MUTIAR 97072                TRC    0  TRC                 TRC   TRC    -
+$MAJENE      97120                  0    0  TRC                 TRC   TRC    -
+*HASANUDDIN  97180                TRC    0    3                   3     3   20
+$BAU-BAU/BET 97192                  1    1    0                   2     2    -
+*BALI INTL   97230                  0    0  TRC                 TRC   TRC    0
+*BIMA        97270                  0   21   11                  32    32    -
+*WAINGAPU    97340                  0   10    0                  10    10    -
+$KUPANG      97372                  0  TRC    0                 TRC   TRC    -
+*TERNATE     97430                  0    5    0                   5     5    -
+$WAMENA      97686                  -    3    3                   6     6    -
+*AMBON       97724                  0    1   41                  42    42  450
+*GESER       97748                  0    0   11                  11    11    -
+$TIMIKA      97796                  0  TRC    6                   6     6    -
+*SAUMLAKI    97900                  0    7    0                   7     7    -
+
+                            PRECIPITATION IS IN MM'S
+
