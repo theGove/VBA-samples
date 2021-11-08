@@ -9,7 +9,7 @@ Dim rs As New ADODB.Recordset
 
 cs = "DRIVER=SQL Server;DATABASE=redcat;SERVER=colonialbakehouse.com"
 cn.Open cs, "redcat_user", "Thomas_1775"
-sql = "select * from redcat.customer"
+sql = "select * from customer"
 rs.Open sql, cn
 
 
