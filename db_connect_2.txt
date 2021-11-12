@@ -1,0 +1,75 @@
+Option Explicit
+
+Sub acme_sub_runner()
+  ' call record_edit passing in the required objects 
+  record_edit ActiveSheet, ActiveCell
+End Sub
+
+Sub record_edit(sh As Worksheet, target As Range)
+    Dim cn As New ADODB.Connection
+    Dim cs As String
+    Dim sql As String
+       
+     ' Connection String for MS SQL Server
+    cs = "DRIVER=SQL Server;DATABASE=vba;SERVER=colonialbakehouse.com;UID=vba_user;PWD=resu_abv;"
+    
+    'Connection String for MS Access
+    'cs = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & ThisWorkbook.Path & "\worklog.accdb"
+    
+    cn.Open cs
+    
+    sql = "insert into  worklog (user_name, workbook, sheet, address, formula, cell_value) " & _
+              "values ('kworthen', 'write_db.xlsm', 'Sheet1', 'A1', '=SUM(B:B)', '100')"
+
+    Debug.Print sql                     
+    cn.Execute sql
+    cn.Close
+   
+End Sub
+
+
+Sub import_applicants()
+    ' 1. make a reference to the ADODB library
+    ' Tools > References ... Microsoft ActiveX data access objects library
+
+    Dim cn As New ADODB.Connection
+    Dim rs As New ADODB.Recordset
+    Dim cs As String
+    Dim sql As String
+       
+    ' Connection String for MS SQL Server
+    cs = "DRIVER=SQL Server;DATABASE=vba;SERVER=colonialbakehouse.com;UID=vba_user;PWD=resu_abv;"
+    
+    'Connection String for MS Access
+    'cs = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" & ThisWorkbook.Path & "\worklog.accdb"
+    
+    'open the connection to the database
+    cn.Open cs
+    
+    sql = "Select * from Applicant"
+    rs.Open sql, cn
+    
+    ' make a new worksheet to hold the data
+    ThisWorkbook.Worksheets.Add
+    ThisWorkbook.Activate
+    
+    'Write the column names into the first row of the new worksheet
+    Dim c As Byte
+    For c = 1 To rs.Fields.Count
+        Cells(1, c).Value = rs.Fields(c - 1).Name
+    Next
+    
+    ' copy the data from the record set, beginning at A2
+    Range("a2").CopyFromRecordset rs
+    
+    ' we are done with the conneciton and record set, close them to save DB resources
+    rs.Close
+    cn.Close
+    
+    ' make a table of the query results and autofit columns
+    ActiveSheet.ListObjects.Add xlSrcRange, ActiveSheet.UsedRange, , xlYes
+    ActiveSheet.UsedRange.EntireColumn.AutoFit
+   
+End Sub
+
+
