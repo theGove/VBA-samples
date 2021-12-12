@@ -1,0 +1,21 @@
+name: Simplified New Snippet
+description: A bare-bones starting point for an Excel snippet
+host: EXCEL
+api_set: {}
+script:
+  content: |-
+    async function write_data(excel) {
+      const sheet = excel.workbook.worksheets.getActiveWorksheet();
+      const range = sheet.getRange("a1:a10");
+      range.values = 10;
+      await excel.sync();
+    }
+  language: javascript
+template:
+  content: <button onclick="Excel.run(write_data)">Write</button>
+  language: html
+style:
+  content: ''
+  language: css
+libraries: |
+  https://appsforoffice.microsoft.com/lib/1/hosted/office.js
