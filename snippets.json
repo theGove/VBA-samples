@@ -1,4 +1,5 @@
-[
+[{"name":"Simple","snips":[
   {"name":"sample snippet", "description":"A simiplified starting point for an Excel JS snippet", "URL":"https://gist.github.com/theGove/94d1b9644d9e1ddb8505335c889e9d5b"},
   {"name":"sample snippet 2", "description":"A simiplified starting point for an Excel JS snippet", "URL":"https://gist.github.com/theGove/94d1b9644d9e1ddb8505335c889e9d5b"}
+]}
 ]
