@@ -1,8 +1,27 @@
-- name: Simple
+- name: Ranges
   snips:
-  - name: sample snippet
-    description: A simiplified starting point for an Excel JS snippet
+  - name: Put Value in Range
+    description: Put a single value in all cells of a range
     URL: https://gist.github.com/theGove/94d1b9644d9e1ddb8505335c889e9d5b
-  - name: sample snippet 2
-    description: A simiplified starting point for an Excel JS snippet
-    URL: https://gist.github.com/theGove/94d1b9644d9e1ddb8505335c889e9d5b
+  - name: Put Values in Range
+    description: Put a different value in each cell in a range
+    URL: https://gist.github.com/theGove/e27ceb7905d90ff52ad58d27e658edd7
+  - name: Value from Addin to Cell
+    description: Read a value from the addin pane and put in a cell
+    URL: https://gist.github.com/theGove/d7fed1431f1d778b29eb4393f5937ea7
+- name: Formatting
+  snips:  
+  - name: Highlight a Range
+    description: Change the background color of a range
+    URL: https://gist.github.com/theGove/e1ce5dece3fc9be6a5ed89c52527527f
+  - name: Horizontal Borders
+    description: Put horizontal borders on a range
+    URL: https://gist.github.com/theGove/2ddd6c88a32207afe1030a6922ea5482
+  - name: Vertical Borders
+    description: Put vertical borders on a range
+    URL: https://gist.github.com/theGove/59953de1a4d7fc61e663b52593506308
+  - name: Outside Borders
+    description: Put borders around a range
+    URL: https://gist.github.com/theGove/f7780579d7d5575ce87aff271fd25c95
+
+
