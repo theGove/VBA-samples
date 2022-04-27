@@ -1,0 +1,46 @@
+    Sub fill_questions()
+        Dim row As Long
+        Dim col As Long
+        Dim firstRow As Long
+        Dim lastRow As Long
+        Dim firstCol As Long
+        Dim currentQuestion As String
+        Dim s As Worksheet
+        
+        Set s = ActiveSheet ' use for active sheet
+        'Set s = ActiveWorkbook.Worksheets("sheet1") ' use for a specific sheet
+        
+        
+        firstCol = 4 ' the column were the questions start. column #4 is column D
+        firstRow = 1 ' the first row you want to process
+        lastRow = s.Cells(s.Rows.Count, firstCol).End(xlUp).row ' figure out the last row in the data set
+        
+        For row = firstRow To lastRow
+            'if we encounter a cell in the first column with no data, move down
+            Do While IsEmpty(s.Cells(row, firstCol).Value)
+              row = row + 1
+            Loop
+            
+            ' move the row to the one with the detailed questions
+            row = row + 1
+            
+            ' set the current column equal to the first column we are processing
+            col = firstCol
+            
+            'loop across the columns as long as there are detailed questions
+            Do Until IsEmpty(s.Cells(row, col).Value)
+                If IsEmpty(s.Cells(row - 1, col).Value) Then
+                    ' the general question in this column is empty, fill it with the most recently seen question
+                    s.Cells(row - 1, col).Value = currentQuestion
+                Else
+                    ' the general question in this column has a value empty, remember it until we bump into a new general question
+                  currentQuestion = s.Cells(row - 1, col).Value
+                End If
+                DoEvents ' do loops can easily get out of control.  this just makes sure we can interupt code in case of a logic error
+                col = col + 1
+            Loop
+        Next ' advance to the next row
+    
+    
+    
+    End Sub
